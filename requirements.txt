@@ -1,0 +1,9 @@
+pandas
+matplotlib
+ipython
+seaborn
+scipy
+scikit-learn
+tensorflow
+pyarrow
+xgboost
